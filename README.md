@@ -13,7 +13,7 @@ We used Altair and Streamlit to solve the following tasks:
 * Detect gender, race and age group mortality differences
 * Display population growth per state, race and age group
 
-<strong>Note</strong>: Our full project visualizes county-level data and is available on [this repository](https://github.com/BeGeiger/BMI706_mortality_project).
+<strong>Note</strong>: Our full project visualizes county-level data and is available in [this repository](https://github.com/BeGeiger/BMI706_mortality_project).
 It requires the generation of data files by executing a shell script. This is our condensed repository, which restricts our visualizations to the state
 level. All required data is already in the repository and no data generation scripts has to be executed.
 
