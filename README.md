@@ -15,7 +15,7 @@ We used Altair and Streamlit to solve the following tasks:
 
 <strong>Note</strong>: Our full project visualizes county-level data and is available in [this repository](https://github.com/BeGeiger/BMI706_mortality_project).
 It requires the generation of data files by executing a shell script. This is our condensed repository, which restricts our visualizations to the state
-level. All required data is already in the repository and no data generation scripts has to be executed.
+level. All required data is already in the repository and no data generation script has to be executed.
 
 Please read the `README_data_generation.md` file in the `data_generation` folder for further details on the raw data and our data processing steps.
 
