@@ -1,1 +1,5 @@
+pandas
+numpy
+altair
+streamlit
 vega_datasets
