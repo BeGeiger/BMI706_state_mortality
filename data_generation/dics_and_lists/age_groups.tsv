@@ -1,0 +1,30 @@
+01	< 1 day
+02	1-6 days
+03	7-27 days
+04	28-364 days
+05	1-4 years
+06	5-9 years
+07	10-14 years
+08	15-19 years
+09	20-24 years
+10	25-34 years
+11	35-44 years
+12	45-54 years
+13	55-64 years
+14	65-74 years
+15	75-84 years
+16	85+ years
+99	unknown
+< 1 year	< 1 year
+1-4 years	1-4 years
+5-9 years	5-9 years
+10-14 years	10-14 years
+15-19 years	15-19 years
+20-24 years	20-24 years
+25-34 years	25-34 years
+35-44 years	35-44 years
+45-54 years	45-54 years
+55-64 years	55-64 years
+65-74 years	65-74 years
+75-84 years	75-84 years
+85+ years	85+ years
