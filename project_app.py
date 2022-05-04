@@ -4,7 +4,6 @@ import streamlit as st
 import numpy as np
 from array import *
 from numpy import NAN
-from streamlit_vega_lite import vega_lite_component, altair_component
 from vega_datasets import data
 
 
